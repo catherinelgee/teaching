@@ -5,6 +5,7 @@
 layout: home
 ---
 #  Teaching 
+Hello I am Catherine Gee. I am a current junior @ UC Berkeley majoring in CS and I like to teach.
 ---
 ## CS61A
 My section times are
@@ -16,9 +17,9 @@ If you want to join/leave my section you can do so [here](https://tutorials.cs61
 
 I staff [OH](https://oh.cs61a.org) on Mondays 7 - 9PM, but if you have more personalized questions you should [email me](mailto:catherinegee@berkeley.edu).
 
-Slides:
+**Slides:**
 - [Week 0](https://docs.google.com/presentation/d/1Qy0Hcv0kekUbpVz8SsUyPJvRzFmtKgH10higL8-RxJA/edit?usp=sharing)
 
-Some of my favorite resources for studying/practice
+**Some of my favorite resources for studying/practice:**
 - [Albert Wu's 61A practice problems](http://albertwu.org/cs61a/)
 - [Sequioa's textbook](https://sequoiatree.github.io/)
