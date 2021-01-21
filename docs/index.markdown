@@ -19,4 +19,6 @@ I staff [OH](https://oh.cs61a.org) on Mondays 7 - 9PM, but if you have more pers
 Slides:
 - [Week 0](https://docs.google.com/presentation/d/1Qy0Hcv0kekUbpVz8SsUyPJvRzFmtKgH10higL8-RxJA/edit?usp=sharing)
 
-
+Some of my favorite resources for studying/practice
+- [Albert Wu's 61A practice problems](http://albertwu.org/cs61a/)
+- [Sequioa's textbook](https://sequoiatree.github.io/)
