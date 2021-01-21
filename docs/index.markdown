@@ -6,6 +6,7 @@ layout: home
 ---
 #  Teaching 
 Hello I am Catherine Gee. I am a current junior @ UC Berkeley majoring in CS and I like to teach.
+
 ---
 ## CS61A
 My section times are
