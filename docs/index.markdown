@@ -16,10 +16,11 @@ My section times are
 
 If you want to join/leave my section you can do so [here](https://tutorials.cs61a.org).
 
-I staff [OH](https://oh.cs61a.org) on Mondays 7 - 9PM, but if you have more personalized questions you should [email me](mailto:catherinegee@berkeley.edu).
+I staff [OH](https://oh.cs61a.org) on Mondays 7 - 9PM, but if you have more personalized questions you should [email me](mailto:catherinegee@berkeley.edu) or try [Piazza](https://piazza.com/class/kjp04wp94wgr).
 
 **Slides:**
 - [Week 0](https://docs.google.com/presentation/d/1Qy0Hcv0kekUbpVz8SsUyPJvRzFmtKgH10higL8-RxJA/edit?usp=sharing)
+- [Week 1](https://docs.google.com/presentation/d/1AN-lDDtL0XgAjKK_77kQ9J0GWEIGL-dKkNBB7EExfJw/edit?usp=sharing)
 
 **Some of my favorite resources for studying/practice:**
 - [Albert Wu's 61A practice problems](http://albertwu.org/cs61a/)
