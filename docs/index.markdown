@@ -27,6 +27,10 @@ I staff [OH](https://oh.cs61a.org) on Mondays 7 - 9PM, but if you have more pers
 - [Week 5](https://docs.google.com/presentation/d/1TZoqX0v7vhvhTSMUnWkmrjGvAkZYtzprJel-kL1kP3I/edit?usp=sharing)
 - [Week 6](https://docs.google.com/presentation/d/1G1USwfiPaE9BBaQSbW_hbibG9n7djVjat_ShFzyIRFw/edit?usp=sharing)
 - [Week 7](https://docs.google.com/presentation/d/1xELRxWbkqJdo6c1QGIraVfnRo5pBbsQJldtc8lXzTiA/edit?usp=sharing)
+- Week 8 (MIDTERM, NO SECTION)
+- [Week 9](https://docs.google.com/presentation/d/121WCRytUiNAN2QGDMJAMh0BfhnCY6nqaXcKLTSUP0ZY/edit?usp=sharing)
+- [Week 10](https://docs.google.com/presentation/d/1Nast7wcF8xQQ4PIhF1rFzKnud0E1-RpLio9HcQOHGMI/edit?usp=sharing)
+- [Week 11](https://docs.google.com/presentation/d/1eKy5MKIrEMN62fPktzyKqMSF3t3lHBA22o9OWa0fcEk/edit?usp=sharing)
 
 **Some of my favorite resources for studying/practice:**
 - [Albert Wu's 61A practice problems](http://albertwu.org/cs61a/)
