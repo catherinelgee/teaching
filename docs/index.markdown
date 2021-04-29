@@ -9,6 +9,9 @@ Hello I am Catherine Gee. I am a current junior @ UC Berkeley majoring in CS and
 
 ---
 ## CS61A
+
+Thanks everyone for a great semester!
+
 My section times are
 - Wed 5 - 6PM
 - Thurs 11AM - 12PM
@@ -31,6 +34,8 @@ I staff [OH](https://oh.cs61a.org) on Mondays 7 - 9PM, but if you have more pers
 - [Week 9](https://docs.google.com/presentation/d/121WCRytUiNAN2QGDMJAMh0BfhnCY6nqaXcKLTSUP0ZY/edit?usp=sharing)
 - [Week 10](https://docs.google.com/presentation/d/1Nast7wcF8xQQ4PIhF1rFzKnud0E1-RpLio9HcQOHGMI/edit?usp=sharing)
 - [Week 11](https://docs.google.com/presentation/d/1eKy5MKIrEMN62fPktzyKqMSF3t3lHBA22o9OWa0fcEk/edit?usp=sharing)
+- [Week 12](https://docs.google.com/presentation/d/1OWT19iO4CxEXpe66cMix4iH-CfAQQYirvS_3YU7iALI/edit?usp=sharing)
+- [Week 13](https://docs.google.com/presentation/d/14BGBIG9gZLshHVZpTnsm6XmJijEq1KIskr4WR6jdKyQ/edit?usp=sharing)
 
 **Some of my favorite resources for studying/practice:**
 - [Albert Wu's 61A practice problems](http://albertwu.org/cs61a/)
