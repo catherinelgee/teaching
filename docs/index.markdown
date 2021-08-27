@@ -5,37 +5,26 @@
 layout: home
 ---
 #  Teaching 
-Hello I am Catherine Gee. I am a current junior @ UC Berkeley majoring in CS and I like to teach.
+Hello I am Catherine Gee. I am a current senior @ UC Berkeley majoring in CS and I like to teach.
 
 ---
 ## CS61A
 
-Thanks everyone for a great semester!
+Welcome to 61A!!
 
-My section times are
-- Wed 5 - 6PM
-- Thurs 11AM - 12PM
-- Thurs 12 - 1PM
+My section times are:
+LAB 3:30 - 5PM SODA 330
+DISC 3:30 - 5PM SODA 310
 
-If you want to join/leave my section you can do so [here](https://tutorials.cs61a.org).
+You can sign up / leave (if there is space) [here](https://sections.cs61a.org).
 
-I staff [OH](https://oh.cs61a.org) on Mondays 7 - 9PM, but if you have more personalized questions you should [email me](mailto:catherinegee@berkeley.edu) or try [Piazza](https://piazza.com/class/kjp04wp94wgr).
+
+I staff [OH](https://oh.cs61a.org) at some unspecified time right now, but if you have more personalized questions you should [email me](mailto:catherinegee@berkeley.edu) or try [Piazza](https://piazza.com/class/ks2ailfmg2upx). I can also set up appointments on an email basis as needed! 
 
 **Slides:**
-- [Week 0](https://docs.google.com/presentation/d/1Qy0Hcv0kekUbpVz8SsUyPJvRzFmtKgH10higL8-RxJA/edit?usp=sharing)
-- [Week 1](https://docs.google.com/presentation/d/1AN-lDDtL0XgAjKK_77kQ9J0GWEIGL-dKkNBB7EExfJw/edit?usp=sharing)
-- [Week 2](https://docs.google.com/presentation/d/1lUn40x3YcM-yT-aKy7L7e6ED3tMvp0O5rMuDN2N9jD8/edit?usp=sharing)
-- [Week 3](https://docs.google.com/presentation/d/1VuRZ9kN9DIDbHrVts7RtoPTT1kN57uoHmCPUFtwpd6w/edit?usp=sharing)
-- Week 4 (MIDTERM, NO SECTION)
-- [Week 5](https://docs.google.com/presentation/d/1TZoqX0v7vhvhTSMUnWkmrjGvAkZYtzprJel-kL1kP3I/edit?usp=sharing)
-- [Week 6](https://docs.google.com/presentation/d/1G1USwfiPaE9BBaQSbW_hbibG9n7djVjat_ShFzyIRFw/edit?usp=sharing)
-- [Week 7](https://docs.google.com/presentation/d/1xELRxWbkqJdo6c1QGIraVfnRo5pBbsQJldtc8lXzTiA/edit?usp=sharing)
-- Week 8 (MIDTERM, NO SECTION)
-- [Week 9](https://docs.google.com/presentation/d/121WCRytUiNAN2QGDMJAMh0BfhnCY6nqaXcKLTSUP0ZY/edit?usp=sharing)
-- [Week 10](https://docs.google.com/presentation/d/1Nast7wcF8xQQ4PIhF1rFzKnud0E1-RpLio9HcQOHGMI/edit?usp=sharing)
-- [Week 11](https://docs.google.com/presentation/d/1eKy5MKIrEMN62fPktzyKqMSF3t3lHBA22o9OWa0fcEk/edit?usp=sharing)
-- [Week 12](https://docs.google.com/presentation/d/1OWT19iO4CxEXpe66cMix4iH-CfAQQYirvS_3YU7iALI/edit?usp=sharing)
-- [Week 13](https://docs.google.com/presentation/d/14BGBIG9gZLshHVZpTnsm6XmJijEq1KIskr4WR6jdKyQ/edit?usp=sharing)
+Right now I am not planning on making slides but we will see. However, you can access all my slides from last semester below and I'll update this website if I do end up making slides!
+
+- [SPRING 2021 FOLDER](https://drive.google.com/drive/folders/1K5TsZ8Vuh7eqr-0GLXh4K9pYt3GyHMiq?usp=sharing)
 
 **Some of my favorite resources for studying/practice:**
 - [Albert Wu's 61A practice problems](http://albertwu.org/cs61a/)
