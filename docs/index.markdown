@@ -11,13 +11,12 @@ Hello I am Catherine Gee. I am a current senior @ UC Berkeley majoring in CS and
 ## CS61A
 
 Welcome to 61A!!
-
-OH: TBA
-LAB: 3:30 - 5PM SODA 330
-DISC: 3:30 - 5PM SODA 310
-EMAIL: catherinegee at berkeley dot edu
-[ANONYMOUS FEEDBACK](https://go.cs61a.org/gee-feedback)
-[ATTENDANCE](https://go.cs61a.org/gee-disc)
+- OH: TBA
+- LAB: 3:30 - 5PM SODA 330
+- DISC: 3:30 - 5PM SODA 310
+- EMAIL: catherinegee at berkeley dot edu
+- [ANONYMOUS FEEDBACK](https://go.cs61a.org/gee-feedback)
+- [ATTENDANCE](https://go.cs61a.org/gee-disc)
 
 
 **Slides:**
